@@ -1,14 +1,9 @@
 <p align="center">
 <img 
     src="./assets/cover.png"
-    width="300"
+    width="400"
 />
 </p>
-
-<p align="center">
-    preview do podcast
-</p>
-
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
