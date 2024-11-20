@@ -41,42 +41,17 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts do `chagpt` para criar o roteiro, antes de criar o roteiro treinar a sessão para entender que ele estará em um universo de podcast, após o primeiro treino pedir a referência dos melhores podcast, criar o roteiro, então seguir passo a passo a orientação da IA. Incluir a dinâmica entre locutores, após a conclusão criar a capa. usar o veed para juntar todos os audios. E done.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de artes no `chagpt`
 - 🤖 3. Use o veed para baixar o auio do `chagpt`
 
-## 👨‍💻 Expert
+[evidência do prompt]
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
+## 👨‍💻 Expert
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Sóllon Soares](https://github.com/SollonSoares)
