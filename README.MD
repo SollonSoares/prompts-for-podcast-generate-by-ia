@@ -36,8 +36,7 @@ Utilize os prompts do `chagpt` para criar o roteiro, antes de criar o roteiro tr
 - 🤖 3. Use o veed para baixar o auio do `chagpt`
 
 ## - Evidência do prompt
-
-<a href=".assets/ChatGPT.mp4/"> ChatGPT </a>
+Está como vídeo no assets com o nome : ChatGPT
 
 ## - Evidência dos audios
 Estão todos no assets
