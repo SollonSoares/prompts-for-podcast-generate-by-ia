@@ -38,7 +38,7 @@ Utilize os prompts do `chagpt` para criar o roteiro, antes de criar o roteiro tr
 
 ## - Evidência do prompt
 
-<a href=".assets/ChatGPT - Google Chrome.mp4/"> Google Chrome </a>
+<a href=".assets/ChatGPT.mp4/"> ChatGPT </a>
 
 ## - Evidência dos audios
 Estão todos no assets
