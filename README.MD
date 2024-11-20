@@ -3,8 +3,8 @@
     src="./assets/cover.png"
     width="400"
 />
-</p>
 Ritual de Pele 
+</p>
 <div align="center">
 
 </div>
