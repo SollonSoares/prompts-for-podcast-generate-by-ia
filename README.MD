@@ -44,7 +44,7 @@ Estão todos no assets
 
 ## 📚 Produto Final
 
-- [soundcloud - Ritual de pele](https://soundcloud.com/sollon-rodrigues-soares/podcast-ritual-de-pele)
+- [soundcloud - Ritual de pele](https://soundcloud.com/sollon-rodrigues-soares/podcast-ritual-de-pele?si=321d1d2c237841c4aeddf86f5ccd480e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ---
 
