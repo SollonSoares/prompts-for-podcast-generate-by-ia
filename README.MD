@@ -3,10 +3,10 @@
     src="./assets/cover.png"
     width="400"
 />
-Ritual de Pele
+
 </p>
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+Ritual de Pele 
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -36,11 +36,12 @@ Utilize os prompts do `chagpt` para criar o roteiro, antes de criar o roteiro tr
 - 🤖 2. Use os prompts de artes no `chagpt`
 - 🤖 3. Use o veed para baixar o auio do `chagpt`
 
-[Evidência do prompt]
-<a href=".assets/ChatGPT - Google Chrome 2024-11-20 03-28-02.mp4/"> Google Chrome 2024-11-20 03-28-02 </a>
+## - Evidência do prompt
 
-[Evidência dos audios]
--Estão todos no assets
+<a href=".assets/ChatGPT - Google Chrome.mp4/"> Google Chrome </a>
+
+## - Evidência dos audios
+Estão todos no assets
 
 ## 📚 Produto Final
 
