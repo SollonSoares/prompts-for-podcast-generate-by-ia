@@ -3,15 +3,13 @@
     src="./assets/cover.png"
     width="400"
 />
+Ritual de Pele
 </p>
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -30,10 +28,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - chatgpt Para gerar capas
 - veed para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-
 ## 🛠️ Instruções de execução
 
 Utilize os prompts do `chagpt` para criar o roteiro, antes de criar o roteiro treinar a sessão para entender que ele estará em um universo de podcast, após o primeiro treino pedir a referência dos melhores podcast, criar o roteiro, então seguir passo a passo a orientação da IA. Incluir a dinâmica entre locutores, após a conclusão criar a capa. usar o veed para juntar todos os audios. E done.
@@ -42,10 +36,15 @@ Utilize os prompts do `chagpt` para criar o roteiro, antes de criar o roteiro tr
 - 🤖 2. Use os prompts de artes no `chagpt`
 - 🤖 3. Use o veed para baixar o auio do `chagpt`
 
-[evidência do prompt]
+[Evidência do prompt]
+<a href="./assets/"> </a>
 
-## 👨‍💻 Expert
-<p>
+[Evidência do audio]
+<a href="./assets/"> </a>
+
+## 📚 Produto Final
+
+- [soundcloud - Ritual de pele](https://soundcloud.com/sollon-rodrigues-soares/podcast-ritual-de-pele)
 
 ---
 
