@@ -3,11 +3,11 @@
     src="./assets/cover.png"
     width="400"
 />
-Ritual de Pele 
 </p>
 <div align="center">
-
+Ritual de Pele 
 </div>
+
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
